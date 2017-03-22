@@ -14,3 +14,6 @@ https://forums.empiresmod.com/index.php?threads/calculating-updated-sourcemod-vt
 
 Currently from vtablescanner3.zip </br>
 https://delftelectronics.nl/empires/tools/vtablescanner3.zip </br>
+
+These seem originally intended only for sdktools (I guess), but I tryed adding them to hooks as well. </br>
+So that would need testing. </br>
