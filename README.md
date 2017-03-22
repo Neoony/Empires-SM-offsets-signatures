@@ -1,4 +1,5 @@
 # Empires-SM-offsets-signatures
+This is all aimed at linux server.
 Updated offsets and signatures for empires </br>
 
 Correct file placements </br>
